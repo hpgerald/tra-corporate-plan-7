@@ -1,0 +1,9 @@
+id,audience,situation,what_changes,plain_language,related_kpa,source_page
+im-01,individual,You file or pay tax,"More services move online with new self-service features, so filing and paying should get simpler and faster.",TRA is automating core processes toward 100% and adding dozens of new self-service features.,kpa2,65
+im-02,individual,You deal with TRA,"TRA is investing in fairer, more transparent and consistent treatment to earn trust and make paying tax easier.",Voluntary compliance and taxpayer trust are central goals of KPA 1 and KPA 3.,kpa1,17
+im-03,individual,Public services you use,"If revenue targets are met, government has much more to spend — total revenue is planned to rise from ~TZS 40tn to ~TZS 75tn.","Mainland net revenue is projected to grow from 40,409.6 to 74,843.6 TZS billion by 2030/31.",kpa1,26
+im-04,business,You import or export goods,"Customs clearance time is targeted to fall from about 4 days to about 2 days, cutting delays and costs.",KPA 5 sets a clearance-time output improving from 4 to 2 days over the plan.,kpa5,85
+im-05,business,You run a registered business,"Expect more digital filing and e-services, but also smarter audits using data and third-party information.",KPA 2 expands automation and analytics; KPA 1 strengthens audit and third-party data use.,kpa2,19
+im-06,business,Large taxpayers,"Large taxpayers are expected to contribute a growing share of revenue, with closer, data-driven engagement.",A KPI targets large taxpayers’ contribution rising from 30% to 55%.,kpa1,58
+im-07,worker,You earn a salary,Income tax (PAYE) continues to be deducted by your employer; the plan aims to make the wider system fairer and more efficient.,PAYE is collected via employers under domestic revenue.,kpa1,36
+im-08,worker,You work at (or join) TRA,"TRA plans to grow staff from 8,775 to 13,428 and invest in training, wellness and ethics programmes.","KPA 4 covers workforce growth, capability, health and integrity.",kpa4,37

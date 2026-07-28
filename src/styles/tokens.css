@@ -1,0 +1,92 @@
+/* ============================================================
+   TOKENS — monochrome editorial system
+   Meaning comes from type, scale, thin rules and whitespace.
+   No accent colour. Black / white / grey ramp only.
+   ============================================================ */
+
+:root {
+  /* --- Monochrome palette ------------------------------------ */
+  --black: #111111;
+  --white: #ffffff;
+
+  --grey-900: #1c1c1c;
+  --grey-800: #333333;
+  --grey-700: #4d4d4d;
+  --grey-600: #6b6b6b;
+  --grey-500: #8a8a8a;
+  --grey-400: #a8a8a8;
+  --grey-300: #c9c9c9;
+  --grey-200: #e2e2e2;
+  --grey-150: #ececec;
+  --grey-100: #f4f4f4;
+  --grey-050: #fafafa;
+
+  /* Semantic roles (still monochrome) */
+  --ink: var(--black);
+  --paper: var(--white);
+  --muted: var(--grey-600);
+  --faint: var(--grey-400);
+  --rule: var(--grey-300);
+  --rule-strong: var(--black);
+  --fill-soft: var(--grey-100);
+
+  /* --- Type ------------------------------------------------- */
+  --font-sans: "Helvetica Neue", Helvetica, Arial, "Inter", system-ui,
+    -apple-system, sans-serif;
+  --font-mono: "SFMono-Regular", ui-monospace, "Menlo", "Consolas", monospace;
+
+  /* Fluid scale (min .. max across viewport 360 -> 1200) */
+  --step--1: clamp(0.78rem, 0.74rem + 0.18vw, 0.88rem);
+  --step-0: clamp(0.94rem, 0.9rem + 0.2vw, 1.05rem);
+  --step-1: clamp(1.1rem, 1rem + 0.5vw, 1.4rem);
+  --step-2: clamp(1.35rem, 1.15rem + 1vw, 2rem);
+  --step-3: clamp(1.7rem, 1.3rem + 1.9vw, 3rem);
+  --step-4: clamp(2.1rem, 1.4rem + 3.3vw, 4.25rem);
+  --step-5: clamp(2.6rem, 1.4rem + 5.6vw, 6rem);
+  --step-6: clamp(3rem, 1rem + 9vw, 8rem);
+
+  --leading-tight: 1.02;
+  --leading-snug: 1.15;
+  --leading-body: 1.5;
+
+  --tracking-tight: -0.02em;
+  --tracking-flat: 0;
+  --tracking-wide: 0.08em;
+  --tracking-caps: 0.12em;
+
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-bold: 700;
+
+  /* --- Spacing (8px base, fluid where useful) --------------- */
+  --space-3xs: 0.25rem;
+  --space-2xs: 0.5rem;
+  --space-xs: 0.75rem;
+  --space-s: 1rem;
+  --space-m: 1.5rem;
+  --space-l: 2.5rem;
+  --space-xl: clamp(3rem, 2rem + 5vw, 6rem);
+  --space-2xl: clamp(4rem, 2rem + 9vw, 9rem);
+
+  /* --- Structure -------------------------------------------- */
+  --measure: 68ch;
+  --container: 1240px;
+  --gutter: clamp(1.25rem, 0.5rem + 3vw, 4rem);
+  --rule-thin: 1px;
+  --rule-thick: 2px;
+
+  /* --- Motion ----------------------------------------------- */
+  --dur: 160ms;
+  --ease: cubic-bezier(0.2, 0, 0, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur: 0ms;
+  }
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

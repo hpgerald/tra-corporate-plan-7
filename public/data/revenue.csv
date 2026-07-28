@@ -1,0 +1,11 @@
+id,scope,line_item,unit,fy2026_27,fy2027_28,fy2028_29,fy2029_30,fy2030_31,source_page
+rev-01,mainland,Total tax revenue,TZS billion,39041.4,,,,72964.7,26
+rev-02,mainland,Total net revenue (incl. non-tax),TZS billion,40409.6,,,,74843.6,26
+rev-03,mainland,Tax revenue yield,percent of GDP,14.5,,,,18.0,26
+rev-04,mainland,Cost of collection,percent,2.9,,,,3.0,26
+rev-05,zanzibar,Total tax revenue,TZS billion,1057.15,,,,1666.0,26
+rev-06,zanzibar,Revenue yield (TRA side),percent,14.9,,,,17.7,26
+rev-07,zanzibar,Revenue yield (ZRA side),percent,20.4,,,,29.4,26
+rev-08,sector,Real GDP growth,percent,5.5,,,,10.5,30
+rev-09,national,Tax-to-GDP ratio (FYDP-IV target),percent,,,,,15.6,7
+rev-10,national,Tax revenue (FYDP-IV target),TZS trillion,,,,,58.63,7

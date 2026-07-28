@@ -1,0 +1,10 @@
+id,type,item,unit,fy2026_27,fy2027_28,fy2028_29,fy2029_30,fy2030_31,source_page
+res-01,workforce,"Total workforce (from 8,775 in 2025/26)",staff,,,,,13428,37
+res-02,workforce,"Female staff (2025/26 baseline, 35.4%)",staff,3100,,,,,37
+res-03,workforce,"Male staff (2025/26 baseline, 64.5%)",staff,5675,,,,,37
+res-04,workforce,"Annual productivity gain (avg ~6%/yr, 3%→8%)",percent,3,,,,8,38
+res-05,budget,Total CP-7 financial requirement (2026/27–2030/31 total),TZS billion,,,,,10596.36,39
+res-06,financing,Primary source: Government budget allocations,category,,,,,,41
+res-07,financing,Complemented by: own-source revenue,category,,,,,,41
+res-08,financing,Complemented by: Development Partner support,category,,,,,,41
+res-09,technology,Digital ecosystem via Digital Transformation Intervention,category,,,,,,42

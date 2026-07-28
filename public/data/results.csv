@@ -1,0 +1,132 @@
+id,objective_id,kpa_id,ref,parent_ref,level,definition,source_page
+result-001,so1,kpa1,1.1,,outcome,1.1 Increased Tax Revenue Collection,58
+result-002,so1,kpa1,1.1.1,1.1,output,1.1.1 Enhanced Tax Audit and Enforcement Programs,59
+result-003,so1,kpa1,1.1.2,1.1,output,1.1.2 Advanced Data Analytics for Compliance Risk Assessment,59
+result-004,so1,kpa1,1.1.3,1.1,output,1.1.3 Enhanced Post Clearance Audit and Physical Verification of Cargo,59
+result-005,so1,kpa1,1.1.4,1.1,output,1.1.4 Optimized Current and Previous Arrears Management,59
+result-006,so1,kpa1,1.1.5,1.1,output,1.1.5 Enhanced Management of Normal Flow Taxes,59
+result-007,so1,kpa1,1.1.6,1.1,output,1.1.6 Enhanced Management of Current and Previous Arrears (Domestic Revenues),59
+result-008,so1,kpa1,1.1.7,1.1,output,1.1.7 Revenue Forecasting and Macro-Fiscal modelling system strengthened,60
+result-009,so1,kpa1,1.1.8,1.1,output,1.1.8 Strengthened legal compliance and risk management in tax administration,60
+result-010,so1,kpa1,1.1.9,1.1,output,1.1.9 Improved effectiveness in tax dispute resolution & litigation management,60
+result-011,so1,kpa1,1.1.10,1.1,output,1.1.10 Strengthened legislative and regulatory framework for tax administration,60
+result-012,so1,kpa1,1.1.11,1.1,output,1.1.11 Improved contract management and legal documentation,60
+result-013,so1,kpa1,1.1.12,1.1,output,1.1.12 Improved Integrity of the VAT Exemption System,61
+result-014,so1,kpa1,1.1.13,1.1,output,"1.1.13 Enhanced corporate governance and strategic oversight through timely Board deliberations, approvals, & monitoring of organizational performance",61
+result-015,so1,kpa1,1.1.14,1.1,output,1.1.14 Reduced clearance time of goods,61
+result-016,so1,kpa1,1.2,,outcome,1.2 Reduced Tax Gap,61
+result-017,so1,kpa1,1.2.1,1.2,output,1.2.1 Compliance Gap Reduced,62
+result-018,so1,kpa1,1.2.2,1.2,output,1.2.2 Strengthened Compliance Audit and Enforcement Framework,62
+result-019,so1,kpa1,1.2.3,1.2,output,1.2.3 Enhanced Third-Party Data Integration for Compliance,62
+result-020,so1,kpa1,1.2.4,1.2,output,1.2.4 Proactive Tax Policy and Legislative Review for Gap Closure,63
+result-021,so1,kpa1,1.3,,outcome,"1.3 Improved Registration, Filing and Payment Rate",63
+result-022,so1,kpa1,1.3.1,1.3,output,1.3.1 Simplified Online Taxpayer Registration System Implemented,63
+result-023,so1,kpa1,1.3.2,1.3,output,1.3.2 Enhanced Taxpayer Service and Support Mechanisms,63
+result-024,so1,kpa1,1.3.3,1.3,output,1.3.3 Reduction of tax objections,64
+result-025,so1,kpa1,1.3.4,1.3,output,1.3.4 Expanded Scope and Quality of ITA Training Programmes to the General Public.,64
+result-026,so1,kpa1,1.3.5,1.3,output,1.3.5 The quality of delivery and assessment improved,64
+result-027,so1,kpa1,1.4,,outcome,1.4 Expand Tax Base from the Informal Sector,65
+result-028,so1,kpa1,1.4.1,1.4,output,1.4.1 Targeted Capacity Building and Awareness for Informal Sector Taxpayers,65
+result-029,so2_0,kpa2,2.1,,outcome,2.1 Improved End-to-End Automation,65
+result-030,so2_0,kpa2,2.1.1,2.1,output,2.1.1 Enterprise Automation Platform Implemented and Integrated,65
+result-031,so2_0,kpa2,2.1.2,2.1,output,2.1.2 Digital Self-Service Channels Enhanced for Automated Interactions,66
+result-032,so2_0,kpa2,2.1.3,2.1,output,"2.1.3 ICT in teaching, learning and research enhanced",66
+result-033,so2_0,kpa2,2.2,,outcome,2.2 Enhanced Enterprise Data Integration and Tax Eligibility Intelligence,67
+result-034,so2_0,kpa2,2.2.1,2.2,output,2.2.1 Unified Enterprise Data Platform Established,68
+result-035,so2_0,kpa2,2.2.2,2.2,output,2.2.2 AI-driven Tax Eligibility Intelligence Models Deployed,68
+result-036,so2_0,kpa2,2.2.3,2.2,output,2.2.3 Enterprise Data Governance Framework Operationalized,69
+result-037,so2_0,kpa2,2.3,,outcome,2.3 Advanced Risk and Predictive Prevention Capability,69
+result-038,so2_0,kpa2,2.3.1,2.3,output,2.3.1 Integrated Advanced Analytics and AI Platform Deployed,70
+result-039,so2_0,kpa2,2.3.2,2.3,output,2.3.2 AI/ML-Powered Predictive Risk and Fraud Models Developed and Deployed,70
+result-040,so2_0,kpa2,2.3.3,2.3,output,2.3.3 Robust Digital Control Framework for Compliance and Data Integrity Established,70
+result-041,so2_0,kpa2,2.3.4,2.3,output,2.3.4 Strengthened Cyber Fraud Detection and Investigation Systems,70
+result-042,so2_0,kpa2,2.4,,outcome,"2.4 Improved Digital Economy Visibility, Legal Harmonisation and Intelligent Engagement",71
+result-043,so2_0,kpa2,2.4.1,2.4,output,2.4.1 Digital Economy Transaction Monitoring System Implementation,71
+result-044,so2_0,kpa2,2.4.2,2.4,output,2.4.2 Harmonized Digital Tax Policy and Regulatory Framework Development,71
+result-045,so2_0,kpa2,2.4.3,2.4,output,2.4.3 AI-Enhanced Digital Taxpayer Engagement and Compliance Platform,71
+result-046,so2_0,kpa2,2.5,,outcome,2.5 Strengthened TRA Digital Governance and Process Control Framework,72
+result-047,so2_0,kpa2,2.5.1,2.5,output,2.5.1 Digital Governance Policy and Procedures Manual Developed and Approved,72
+result-048,so2_0,kpa2,2.5.2,2.5,output,2.5.2 Automated Data Integrity and System Monitoring Tools Deployed,72
+result-049,so2_0,kpa2,2.5.3,2.5,output,2.5.3 Digital Risk Management and Compliance Reporting System Implemented,72
+result-050,so3_0,kpa3,3.1,,outcome,"3.1 Improved stakeholder relationships, communication and Service Governance",72
+result-051,so3_0,kpa3,3.1.1,3.1,output,3.1.1 Enhanced Stakeholder Communication and Feedback Mechanisms Established,72
+result-052,so3_0,kpa3,3.1.2,3.1,output,"3.1.2 Develop, review and implement Proficiency/demand-driven programmes for TRA staff",73
+result-053,so3_0,kpa3,3.1.3,3.1,output,3.1.3 Established strategic partnerships and linkages with industry and academia within and outside the country,73
+result-054,so3_0,kpa3,3.1.4,3.1,output,3.1.4 Improved student services and extra curriculum activities,74
+result-055,so3_0,kpa3,3.2,,outcome,3.2 Strengthened Institutional Trust,75
+result-056,so3_0,kpa3,3.2.1,3.2,output,3.2.1 Enhanced Public Reporting on TRA Ethics Performance,75
+result-057,so3_0,kpa3,3.3,,outcome,3.3 Improved Alignment to National and International Tax Governance Standards,75
+result-058,so3_0,kpa3,3.3.1,3.3,output,3.3.1 Comprehensive Regulatory Compliance Monitoring Framework Implemented,75
+result-059,so3_0,kpa3,3.4,,outcome,"3.4 Institutionalization of ESG principles within TRA's governance, operations, and performance systems",75
+result-060,so3_0,kpa3,3.4.1,3.4,output,3.4.1 ESG governance and institutional framework established and operationalized,76
+result-061,so3_0,kpa3,3.4.2,3.4,output,3.4.2 ESG Integrated into Business Processes,76
+result-062,so3_0,kpa3,3.4.3,3.4,output,3.4.3 ESG performance monitored and reported,76
+result-063,so4_1,kpa4,4.1.1,4.1,outcome,4.1.1 Improved Role Clarity and Mandate Alignment,76
+result-064,so4_1,kpa4,4.1.1,4.1,output,4.1.1.1 Standardized Role Descriptions & Deliverable Mapping,76
+result-065,so4_1,kpa4,4.1.1,4.1,output,4.1.1.2 Reviewed TRA's Organizational structure,76
+result-066,so4_1,kpa4,4.1.2,4.1,outcome,4.1.2 Strengthened Employee Engagement & Organisational Commitment,76
+result-067,so4_1,kpa4,4.1.2,4.1,output,4.1.2.1 Enhanced Employee Communication and Feedback Mechanisms,76
+result-068,so4_1,kpa4,4.1.2,4.1,output,4.1.2.2 Improved employee's engagement initiatives,76
+result-069,so4_1,kpa4,4.1.2,4.1,output,4.1.2.3 Employee salary and benefits improved,77
+result-070,so4_1,kpa4,4.1.2,4.1,output,4.1.2.4 Improved welfare programs and workplace wellness initiatives.,77
+result-071,so4_1,kpa4,4.1.3,4.1,outcome,4.1.3 Improved Organisational Capacity and Knowledge Management,77
+result-072,so4_1,kpa4,4.1.3,4.1,output,4.1.3.1 Integrated Knowledge Management System and Culture,77
+result-073,so4_1,kpa4,4.1.3,4.1,output,4.1.3.2 Implement targeted Learning and Development (L&D) to strengthen institutional capacity.,77
+result-074,so4_1,kpa4,4.1.3,4.1,output,4.1.3.3 Enhanced employee capabilities,78
+result-075,so4_1,kpa4,4.1.3,4.1,output,4.1.3.4 Robust Digital Skills Development Strategy,78
+result-076,so4_1,kpa4,4.1.4,4.1,outcome,4.1.4 Improved Performance Management,78
+result-077,so4_1,kpa4,4.1.4,4.1,output,4.1.4.1 Revised Performance Management Framework Developed and Approved,78
+result-078,so4_1,kpa4,4.1.4,4.1,output,4.1.4.2 Performance Management System Digitization,78
+result-079,so4_1,kpa4,4.1.5,4.1,outcome,"4.1.5 Improved Working Environment, Tools and Operational Support",79
+result-080,so4_1,kpa4,4.1.5,4.1,output,4.1.5.1 Modernized Digital Productivity Platform,79
+result-081,so4_1,kpa4,4.1.5,4.1,output,4.1.5.2 Upgraded Ergonomic and Functional Workspaces,79
+result-082,so4_1,kpa4,4.1.5,4.1,output,4.1.5.3 Institutionalization of Change Management in the Authority,79
+result-083,so4_1,kpa4,4.1.5,4.1,output,4.1.5.4 Renovate existing teaching physical infrastructure and facilities,80
+result-084,so4_1,kpa4,4.1.5,4.1,output,4.1.5.5 Modern learning and lecture space for ITA constructed,80
+result-085,so4_1,kpa4,4.1.5,4.1,output,"4.1.5.6 Safety and security of students, staff and stakeholders enhanced",80
+result-086,so4_1,kpa4,4.1.5,4.1,output,4.1.5.7 Enhanced Availability of Working Tools and Equipment,81
+result-087,so4_1,kpa4,4.1.5,4.1,output,4.1.5.8 Improved Workplace Safety and Security,81
+result-088,so4_1,kpa4,4.1.5,4.1,output,4.1.5.9 Improved Workplace Office and staff housing building,81
+result-089,so4_1,kpa4,4.1.5,4.1,output,4.1.5.10 Improved Availability of Operational Logistics and Facilities,81
+result-090,so4_1,kpa4,4.1.6,4.1,outcome,"4.1.6 Strengthened Inclusion, Youth, Gender Equality and Disability Integration",81
+result-091,so4_1,kpa4,4.1.6,4.1,output,4.1.6.1 Accessible Infrastructure,81
+result-092,so4_1,kpa4,4.1.6,4.1,output,"4.1.6.2 Comprehensive Diversity, Equity and Inclusion (DEI) Awareness Programs and Governance Frameworks Implemented",81
+result-093,so4_1,kpa4,4.1.6,4.1,output,4.1.6.3 Inclusive Recruitment and Selection policies improved,81
+result-094,so4_2,kpa4,4.2.1,4.2,outcome,4.2.1 Strengthened Organisational Governance and Ethical Culture,81
+result-095,so4_2,kpa4,4.2.1,4.2,output,4.2.1.1 Enhanced Ethics and Integrity Training & Awareness Program,82
+result-096,so4_2,kpa4,4.2.1,4.2,output,"4.2.1.2 Strengthened Governance, Risk Management, and Internal Control System.",82
+result-097,so4_2,kpa4,4.2.1,4.2,output,4.2.1.3 Established Whistle blowing and Investigation Protocol,83
+result-098,so4_2,kpa4,4.2.1,4.2,output,4.2.1.4 Improved ethical conducts and internal investigations to safeguard integrity and ethical values,83
+result-099,so4_2,kpa4,4.2.1,4.2,output,4.2.1.5 Comprehensive Ethics and Integrity compliance Management Framework Implemented,83
+result-100,so4_2,kpa4,4.2.2,4.2,outcome,4.2.2 Reduced corruption incidents and strengthened integrity within the institution,83
+result-101,so4_2,kpa4,4.2.2,4.2,output,"4.2.2.1 Anti -corruption prevention, awareness and enforcement measures strengthened",83
+result-102,so4_3,kpa4,4.3.1,4.3,outcome,4.3.1 Reduced prevalence of HIV/AIDS and NCDs among employees and improved access to support services,84
+result-103,so4_3,kpa4,4.3.1,4.3,output,4.3.1.1 Strengthened workplace awareness and prevention programs,84
+result-104,so4_3,kpa4,4.3.1,4.3,output,"4.3.1.2 Improved employee wellness, screening and support services",84
+result-105,so4_3,kpa4,4.3.1,4.3,output,4.3.1.3 Improved workplace policy and coordination for HIV/AIDS and NCD management,84
+result-106,so4_3,kpa4,4.3.1,4.3,output,4.3.1.4 Reduced HIV-related stigma and discrimination in the workplace,84
+result-107,so5_0,kpa5,5.1,,outcome,5.1 Improved Effectiveness and Efficiency of Procurement Processes,84
+result-108,so5_0,kpa5,5.1.1,5.1,output,5.1.1 Digitized Procurement Lifecycle Implementation,85
+result-109,so5_0,kpa5,5.1.2,5.1,output,5.1.2 Improved use of Framework Contracts (FWC) for critical and repeatedly requirements,85
+result-110,so5_0,kpa5,5.1.3,5.1,output,"5.1.3 Enhanced Procurement Policy, laws and Procedures knowledge",85
+result-111,so5_0,kpa5,5.1.4,5.1,output,5.1.4 Optimized Vendor Relationship and Performance Management System.,85
+result-112,so5_0,kpa5,5.2,,outcome,5.2 Enhanced Financial Operations Management,85
+result-113,so5_0,kpa5,5.2.1,5.2,output,5.2.1 Streamlined Revenue Accounting and Reconciliation Processes,86
+result-114,so5_0,kpa5,5.2.2,5.2,output,5.2.2 Optimized Cash Flow and Treasury Management System,86
+result-115,so5_0,kpa5,5.3,,outcome,5.3 Improved Strategic Alignment between plans and Budget,86
+result-116,so5_0,kpa5,5.3.1,5.3,output,5.3.1 Medium term and annual budgeting coordination mechanism operational,86
+result-117,so5_0,kpa5,5.3.2,5.3,output,5.3.2 Corporate and departmental strategic planning framework institutionalised,86
+result-118,so5_0,kpa5,5.4,,outcome,5.4 Improved performance management and accountability across responsibility centres,86
+result-119,so5_0,kpa5,5.4.1,5.4,output,"5.4.1 Monitoring, Evaluation, Accountability and Learning (MEAL) framework operational",86
+result-120,so5_0,kpa5,5.5,,outcome,5.5 Improved delivery performance of strategic projects and programmes,86
+result-121,so5_0,kpa5,5.5.1,5.5,output,5.5.1 Strategic project and programme management framework institutionalised,87
+result-122,so5_0,kpa5,5.6,,outcome,"5.6 Enhanced use of evidence, research and innovation (ERI) in policy and operational decisions",87
+result-123,so5_0,kpa5,5.6.1,5.6,output,5.6.1 Institutional research and innovation framework operational,87
+result-124,so5_0,kpa5,5.6.2,5.6,output,5.6.2 Fiscal policy advisory and analytical briefing's function strengthened,87
+result-125,so5_0,kpa5,5.6.3,5.6,output,5.6.3 Strengthened research engagement,87
+result-126,so5_0,kpa5,5.6.4,5.6,output,5.6.4 Research Dissemination of Research findings effectively,88
+result-127,so5_0,kpa5,5.6.5,5.6,output,5.6.5 High quality publications in reputable journals increased,89
+result-128,so5_0,kpa5,5.6.6,5.6,output,5.6.6 Consultancies in strategic priority areas of the Public Service Undertaken,89
+result-129,so5_0,kpa5,5.7,,outcome,5.7 Strengthened AEO Program,90
+result-130,so5_0,kpa5,5.7.1,5.7,output,5.7.1 Strengthened Enforcement and ant-smuggling operations,90
+result-131,so5_0,kpa5,5.7.2,5.7,output,5.7.2 Enhanced Customs Business Support,90
