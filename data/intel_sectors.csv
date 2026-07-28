@@ -1,0 +1,13 @@
+id,sector,attention,outlook,why,basis,related_kpa,source_page
+sec-01,ICT systems & software,5,Highest-priority enabler,"TRA is modernising core systems, automating processes toward 100%, and integrating internal/external systems (90→300). Vendors, integrators and developers are directly in demand.",Documented,kpa2,66
+sec-02,"Data, analytics & AI",5,Fastest-rising capability,"Analytics-driven tax eligibility, AI/ML risk & fraud models (2→10), a unified enterprise data platform and data-governance framework.",Documented,kpa2,68
+sec-03,Cybersecurity & data governance,4,Rising with digitalisation,A KPI targets cyber-threat reduction (7%→60%) and data-governance breach control as systems and data volumes grow.,Documented,kpa2,69
+sec-04,Tax advisory & compliance services,4,Broadening tax base,"Focus on the informal economy, third-party data, audits, dispute reduction and voluntary compliance widens demand for advisers and compliance tech.",Documented,kpa1,58
+sec-05,"Customs, logistics & trade",4,Trade facilitation push,"Clearance time targeted to halve (8→4 days), an AEO programme, and border-surveillance upgrades favour logistics and trade-facilitation providers.",Documented,kpa5,61
+sec-06,Professional training & education,4,Skills build-out,"ITA is expanding programmes, e-learning (Moodle/LMS), certification and public training; large internal reskilling is planned.",Documented,kpa3,66
+sec-07,Construction & facilities,3,Capital works,"An ITA Academic Building and Misugusugu campus, office and staff-housing construction, renovations and camera/security systems are planned.",Documented,kpa4,80
+sec-08,Financial services & digital payments,3,Digital-economy taxation,Integration of digital payment channels and taxing non-resident digital services create fintech and data-sharing opportunities.,Documented,kpa2,67
+sec-09,Research & consultancy,3,Evidence-led delivery,"Research proposals, EOIs/RFPs, external consultancies and policy briefs are explicitly targeted to grow.",Documented,kpa5,89
+sec-10,ESG & management consulting,3,New governance agenda,ESG is being institutionalised (0→80% integration) alongside change management and enterprise risk — a new advisory market.,Documented,kpa3,76
+sec-11,Health & wellness services,2,Workforce wellbeing,"Staff wellness, HIV/AIDS and NCD screening and support programmes are funded across the workforce.",Documented,kpa4,84
+sec-12,Media & communications,2,Trust and education,"Taxpayer education, communication channels and public reporting on performance expand steadily.",Documented,kpa3,72

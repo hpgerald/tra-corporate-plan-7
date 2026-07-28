@@ -1,0 +1,15 @@
+id,label,layer,note
+fin,Financing (~TZS 10.6tn),0,"Front-loaded capital, partly development-partner supported"
+data,Data & data-sharing,0,"Third-party and digital data, with sharing agreements"
+ict,ICT systems & integration,0,"Modern, integrated core systems (90→300 integrations)"
+work,Skilled workforce,0,"8,775 → 13,428 staff, reskilled in digital & analytics"
+law,Legislation & policy,0,Enabling law for data-sharing and digital-economy tax
+digital,Digital & data capability,1,Automation and a unified data platform (KPA 2)
+ai,Analytics & AI,1,"Risk models, fraud detection, eligibility (KPA 2)"
+ops,Operations & trade,1,"Procurement, customs and trade facilitation (KPA 5)"
+trust,Trust & service,1,"Taxpayer education, fairness, engagement (KPA 3)"
+gov,Governance & ethics,1,"Ethics, ESG, risk and internal control (KPA 4)"
+rev,Revenue growth,2,TZS 40tn → 75tn; yield 14.5% → 18%
+base,Wider tax base,2,Informal economy and digital services brought in
+comp,Compliance & trust,2,Higher voluntary compliance and institutional trust
+eff,Operational efficiency,2,"Faster clearance, lower cost of collection"
